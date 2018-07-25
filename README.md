@@ -6,7 +6,7 @@ The project involves wrangling  archived Twitter data , analyse the cleaned data
 The entire process has been captured under wrangle_report.html and act_report.html
 Only select quality and tidiness issues have been considered for wrangling and subsequent analysis. Additional data used for wrangling has been downloaded via Twitter API.
 
-Note - At this point,modelling the data has not been considered in this work and this will be a task to be undertaken.
+Note - At this point,modeling the data has not been considered in this work and this will be a task to be undertaken.
 
 
 ## Deliverables
