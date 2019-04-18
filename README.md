@@ -1,7 +1,7 @@
 
 # Wrangle and Analyse Twitter data - WeRateDogs
 -----------------------------------------------
-The project involves wrangling  archived Twitter data , analyse the cleaned data and draw insights from the observations. The dataset considered, twitter_archive_enhanced.csv  is the  enhanced tweet archive of Twitter user @dog_rates, also known as WeRateDogs. 
+The project involves wrangling  archived Twitter data , analyse the cleaned data and draw insights from the observations. The dataset, twitter_archive_enhanced.csv  is the  enhanced tweet archive of Twitter user @dog_rates, also known as WeRateDogs. 
 
 The entire process has been captured under wrangle_report.html and act_report.html
 Only select quality and tidiness issues have been considered for wrangling and subsequent analysis. Additional data used for wrangling has been downloaded via Twitter API.
